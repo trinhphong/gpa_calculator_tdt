@@ -36,6 +36,9 @@ gem 'devise'
 
 gem 'bootstrap', '~> 4.0.0'
 
+# Spider
+gem 'mechanize'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
